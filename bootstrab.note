@@ -1,0 +1,21 @@
+
+
+bootstrab is framework of the css for that you can code easyly for your site 
+
+
+breakpoints 
+ X-small < 576px
+ Samll > 576px
+ Medium > 768px
+ Large > 992px
+ Extra large > 1200px
+ Extra extra large > 1400px
+
+ container => ikki yonidan joy tawaydi 
+ container-sm => 
+ container-md =>
+ continer-lg => 
+ container-xl =>
+ conatiner-xxl =>
+ container-fluid => tolqi joyni egallaydi 
+ 
